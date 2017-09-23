@@ -18,7 +18,7 @@
         <github.account>SeshagiriSriram</github.account>
         <thucydides.version>0.9.268</thucydides.version>
         <jelastic.context>addressbook</jelastic.context>
-    </properties>
+	    </properties>
 	<distributionManagement>
 		<snapshotRepository>
 			<id>${env.ART_ID}</id>
