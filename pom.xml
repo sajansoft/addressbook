@@ -18,6 +18,8 @@
         <github.account>SeshagiriSriram</github.account>
         <thucydides.version>0.9.268</thucydides.version>
         <jelastic.context>addressbook</jelastic.context>
+	<maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 	<distributionManagement>
 		<snapshotRepository>
